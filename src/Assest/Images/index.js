@@ -1,0 +1,11 @@
+export{ default as Image_1} from "./logo.jpg";
+export{ default as Image_2} from "./logo1.jpg";
+export{ default as Image_3} from "./download.jpg";
+export{ default as Image_4} from "./leadershp.jpg";
+export{ default as Image_5} from "./blog.jpg";
+export{ default as Image_6} from "./rama5.jpg";
+export{ default as Image_7} from "./rama4.jpg";
+export{ default as Image_8} from "./rama6.jpg";
+export{ default as Image_9} from "./rama2.jpg";
+export{ default as Image_10} from "./rama3.jpg";
+export{ default as Image_11} from "./about.jpg";
